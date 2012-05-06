@@ -1,0 +1,19 @@
+{
+    "name": "pdxart"
+  , "version": "0.0.1"
+  ,	"engines": {
+	    "node": ">= 0.6.x",
+	    "npm":  ">= 1.0.x"
+	  }
+  , "dependencies": {
+      "express": "2.5.8"
+    , "mongodb": ">= 0.9.6-7"
+    , "mongoose": ">= 2.5.13"	
+    , "ejs": ">= 0.0.1"	
+    , "node-transloadit": ">= 0.0.1"	
+    , "hat": ">= 0.0.1"	
+    , "knox": ">= 0.0.1"
+    , "imagemagick": ">= 0.0.1"	
+	
+  }
+}
